@@ -1,0 +1,11 @@
+@import '@economist/component-grid';
+@import '@economist/component-icon';
+@import '@economist/component-icon/backgrounds/balloon.css';
+@import '@economist/component-palette';
+@import '@economist/component-typography';
+@import './settings.css';
+@import './index.css';
+
+.example-comments {
+  color: var(--color-beijing, #121212);
+}
